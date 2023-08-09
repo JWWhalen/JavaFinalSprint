@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Justin Whalen",
+    "age": 30,
+    "city": "Bell Island"
+  },
+  {
+    "name": "Gabriel Whalen",
+    "age": 6,
+    "city": "Bell Island"
+  },
+  {
+    "name": "Malachi Whalen",
+    "age": 12,
+    "city": "Bell Island"
+  },
+  {
+    "name": "Maud Whalen",
+    "age": 99,
+    "city": "Spaniards Bay"
+  },
+  {
+    "name": "Kristen Leights",
+    "age": 29,
+    "city": "Belleoram"
+  },
+  {
+    "name": "Maverick Whalen",
+    "age": "3",
+    "city": "Bell island"
+  }
+]
